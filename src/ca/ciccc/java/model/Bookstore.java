@@ -1,10 +1,10 @@
 package ca.ciccc.java.model;
 
-import ca.ciccc.java.Exception.InvalidArgumentException;
-import ca.ciccc.java.Exception.InvalidBookDateException;
-
 import java.util.ArrayList;
 import java.util.Collections;
+
+import ca.ciccc.java.Exception.InvalidArgumentException;
+import ca.ciccc.java.Exception.InvalidBookDateException;
 
 /**
  * @author paula on 19/04/18.
